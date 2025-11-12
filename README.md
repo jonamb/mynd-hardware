@@ -20,5 +20,5 @@ Purchase one [here](https://teufel.de/mynd)!
 
 # Clone
 ```shell
-git clone --recurse-submodules git@github.com:teufelaudio/mynd-hardware.git
+git clone git@github.com:teufelaudio/mynd-hardware.git
 ```
