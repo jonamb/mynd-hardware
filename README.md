@@ -5,7 +5,7 @@ This repository contains all hardware related files including 3d models, schemat
 ## `CAD/`
 Contains 3d construction files in Rhino, STEP and STL formats. 
 For every format, individual parts are available as direct download or a 'complete' package is avialable containing the entire model.
-Due to size, the complete model in STL format is compressedinto 'complete.zip'.
+Due to size, the complete model in STL format is compressed into 'complete.zip'.
 
 ## `PCB_Schematics/`
 ### `./Altium`
